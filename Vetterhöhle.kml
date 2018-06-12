@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Vetterhöhle</name>
+	<LookAt>
+		<longitude>9.780833333333334</longitude>
+		<latitude>48.41909654319901</latitude>
+		<altitude>0</altitude>
+		<heading>0.0005758413628272912</heading>
+		<tilt>0</tilt>
+		<range>500</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<Icon>
+		<href>VH_Plan.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>48.41892438024838</north>
+		<south>48.41426279725173</south>
+		<east>9.781573707739732</east>
+		<west>9.775375618039234</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

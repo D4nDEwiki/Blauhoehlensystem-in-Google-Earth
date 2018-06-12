@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Blauhöhle</name>
+	<Icon>
+		<href>Blautopfhoehle - Kopie.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>48.4311204283833</north>
+		<south>48.41292283766988</south>
+		<east>9.791377677215335</east>
+		<west>9.752606757805218</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
