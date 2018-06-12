@@ -1,4 +1,4 @@
-# Blauhoehlensystem in Google Earth
+# Blauhöhlensystem in Google Earth
 2 KML Dateien zur Verwendung in Google Earth.
 
 Zum runterladen rechtsklick auf den blauen Namen -> Ziel speichern unter
